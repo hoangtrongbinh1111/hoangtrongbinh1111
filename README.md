@@ -17,7 +17,7 @@
 - CCNA Certified: [https://www.credly.com/badges/c2422ae2-ba1f-4a9e-a912-98df49fc9144](https://www.credly.com/badges/c2422ae2-ba1f-4a9e-a912-98df49fc9144/public_url)
 - Cisco Certified Specialist - Enterprise Core: [https://www.credly.com/badges/220f3ad4-7fb3-4b36-be31-a4e4d0242376](https://www.credly.com/badges/220f3ad4-7fb3-4b36-be31-a4e4d0242376/public_url)
 - Cisco Certified Specialist - Enterprise Advanced Infrastructure Implementation: [https://www.credly.com/badges/37d9f4c7-d467-4c6e-a176-1ee76536135d](https://www.credly.com/badges/37d9f4c7-d467-4c6e-a176-1ee76536135d/public_url)
-- Cisco Certified Specialist - Enterprise Core: [https://www.credly.com/badges/76fd85d7-3aab-4845-ac35-e884dbcbd9a9](https://www.credly.com/badges/76fd85d7-3aab-4845-ac35-e884dbcbd9a9/public_url)
+- Cisco Certified Network Professional Enterprise (CCNP Enterprise): [https://www.credly.com/badges/76fd85d7-3aab-4845-ac35-e884dbcbd9a9](https://www.credly.com/badges/76fd85d7-3aab-4845-ac35-e884dbcbd9a9/public_url)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=hoangtrongbinh1111&theme=radical&no-frame=false&no-bg=true&margin-w=4)
